@@ -26,7 +26,7 @@ export default function About() {
     return (
         <div className="flex flex-col items-center justify-center min-h-screen py-2 ">
         <Head>
-            <title>Welcome to Mars</title>
+            <title>Facts About Mars</title>
             <link rel="icon" href="/mars-favicon.ico" />
         </Head>
         <Header />
